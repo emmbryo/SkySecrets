@@ -1,0 +1,9 @@
+[submodule "skysecrets-auth"]
+	path = skysecrets-auth
+	url = git@github.com:emmbryo/skysecrets-auth.git
+[submodule "skysecrets-api"]
+	path = skysecrets-api
+	url = git@github.com:emmbryo/skysecrets-api.git
+[submodule "skysecrets-frontend"]
+	path = skysecrets-frontend
+	url = git@github.com:emmbryo/skysecrets-frontend.git
